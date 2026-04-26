@@ -1,2 +1,9 @@
-# tiny-bmi-calculator-helper-64
-A simple bmi calculator project
+# Bmi Calculator
+
+A simple bmi calculator project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
